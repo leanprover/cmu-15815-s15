@@ -1,0 +1,17 @@
+#navWrapper {
+	margin-right: -3px !important;
+	zoom:1;
+}
+
+#contentWrapper {
+	margin-left: 241px !important;
+}
+
+#topnav {
+	margin-left: 241px !important;
+}
+
+#searchSubmit {
+	margin-left: 5px;
+	letter-spacing:100px; /*moves text out of way for ie*/
+}

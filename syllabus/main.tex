@@ -1,0 +1,153 @@
+\documentclass{article}
+\usepackage{hyperref}
+\usepackage[left=3cm,top=3cm,right=3cm,nohead,bottom=3cm]{geometry}
+\title{15-414 Bug Catching: \mbox{Automated Program Verification and Testing}}
+\date{Monday/Wednesday 3:00 - 4:20, GHC 4211\\
+  \url{http://www.cs.cmu.edu/~emc/15414-f11}
+}
+\author{Edmund Clarke \and Sagar Chaki 
+  \and Arie Gurfinkel
+}
+\begin{document}
+\maketitle
+\section{Course Description}
+At some point in their careers, most CS and ECE students will develop
+software or hardware that must be ultra reliable. Logical errors in
+such designs can be costly, even life threatening. There has already
+been a number of well publicized errors like the Intel Pentium
+floating point error and the Ariane 5 crash. In this course we will
+study foundational concepts, and tools built on them, for finding and
+preventing such errors. We will cover some of the most prominent ideas
+in this important and evolving field -- including propositional
+satisfiability, Binary Decision Diagrams, model checking, abstraction,
+static analysis, abstraction-refinement, bounded model checking, and
+probabilistic model checking. We will also study some of the
+successful tools in this area. There will be emphasis on both the
+theoretical basis of these tools, as well as their hands-on use on
+real examples. This course can be used as one of the Fundamentals of
+Algorithms requirement.
+
+Following is the list of topics that we intend to cover in the
+course. The emphasis of the course is on effective use of verification
+tools. We hope that at the end of the course, students will be able to
+do research in this area.
+\begin{itemize}
+\item Overview of model checking
+\item Quick introduction to logic
+  \begin{itemize}
+  \item Propositional logic
+  \item Davis Putnam procedure, fast SAT solvers
+  \end{itemize}
+\item Binary Decision Diagrams (BDDs)
+\item Property specification using Computation Tree Logic (CTL)
+\item Linear Temporal Logic (LTL)
+\item LTL tableaux construction
+\item LTL model checking
+\item Explicit state model checking
+\item Partial order reduction
+\item Symbolic model checking
+\item Detailed introduction to model checker SMV
+\item Detailed introduction to model checker SPIN
+\item Abstract interpretation
+\item Predicate abstraction and abstract refinement
+\item Detailed introduction to model checker CBMC
+\item Compositional model checking
+\item Probabilistic model checking
+\item Statistical model checking
+\end{itemize}
+
+\section{Textbook}
+\begin{itemize}
+\item Edmund M. Clarke Jr., Orna Grumberg, and Doron A. Peled, ``Model Checking''
+\item Mordechai Ben-Ari, ``Principles of the Spin Model Checker''
+\end{itemize}
+
+\section{Grading and Policies}
+\subsection{Grading}
+Grading will be based on class participation, assignments, a midterm,
+and a final project. The assignments are worth 30\% of the final
+grade, midterm exam is worth 30\% of the final grade, final project is
+worth 35\% of the final grade, and class participation is worth 5\% of
+the final grade.
+
+\subsection{Homeworks}
+\begin{itemize}
+\item There will be a problem set about every two weeks.
+\item All homeworks are due at the beginning of class.
+\item All homeworks must be either typed, preferably in LaTeX, or
+  legible if it's paper copy.
+\item We will not accept late submission.
+\item You are welcome to confer with other students on homeworks, just
+  don't turn in the exact same solution. You have to prepare the
+  solution individually.
+\item At the top of your assignment, write down whom you worked with,
+  if anyone.
+\end{itemize}
+
+\subsection{Project}
+Projects should be done in groups of two.
+
+\subsection{Cheating}
+It can be surprisingly easy to detect when students are not doing
+their own work. Working with others on the assignments does not mean
+dividing the problems among you, and then swapping answers.
+
+\section{Contact Information}
+\subsection{Instructors}
+\begin{itemize}
+\item Prof. Edmund M. Clarke
+  \begin{itemize}
+  \item \url{emc@cs.cmu.edu}
+  \item Office: GHC 9231 
+  \item Phone: (412) 268-2628 
+  \item Office hours: By appointment
+  \end{itemize}
+\item Dr. Sagar Chaki 
+  \begin{itemize}
+  \item \url{chaki@sei.cmu.edu}
+  \item Office: SEI 
+  \item Phone: (412) 268-1436 
+  \item Office hours: By appointment
+  \end{itemize}
+\item Dr. Arie Gurfinkel 
+  \begin{itemize}
+  \item \url{arie@cmu.edu}
+  \item Office: SEI 
+  \item Phone: (412) 268-7788 
+  \item Office hours: By appointment
+  \end{itemize}
+\end{itemize}
+
+\subsection{Teaching Assistants}
+\begin{itemize}
+\item Soonho Kong
+  \begin{itemize}
+  \item \url{cmu15414ta@gmail.com}
+  \item Office: GHC 7609 
+  \item Phone: 412-268-3076 
+  \item Office hours: By appointment
+  \end{itemize}
+\item David Henriques 
+  \begin{itemize}
+  \item \url{cmu15414ta@gmail.com}
+  \item Office: GHC 7511 
+  \item Phone: 412-268-2582 
+  \item Office hours: By appointment	
+  \end{itemize}
+\end{itemize}
+
+\subsection{Course Secretary}
+\begin{itemize}
+\item Denny Marous 
+  \begin{itemize}
+  \item \url{dcm@cs.cmu.edu}
+  \item Office: GHC 9229 
+  \item Phone: 412-268-7660
+  \end{itemize}
+\end{itemize}
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
