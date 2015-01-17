@@ -1,3 +1,5 @@
+![Travis](https://travis-ci.org/leanprover/cmu-15815-s15.svg)
+
 CMU 15–815 Interactive Theorem Proving
 ======================================
 Spring 2015 Semester Computer Science Department
