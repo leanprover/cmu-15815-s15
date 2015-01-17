@@ -1,0 +1,28 @@
+language: node_js
+env:
+  global:
+   # GH_TOKEN=[secure]             (to push to osx/windows repo under soonhokong)
+   - secure: "O20Ieb/uzCdYJF4klihf8VzzSZynL52k1XI2z9OiJeJWEhC4Ogpoh+wrd9oZWfWMXGIvx9CuY2i/uigrim14+mTcXac6Ie1eLtrrHMufL3pXKDDZnCp39C/rD7ybwEmjlT32GTFrANsb8ImUFX9nu78yxo93T5Z0lFfPlbxI5x8="
+   # REPO=BLESSED                  (to perform extra stuff only for pushes to the blessed repo)
+   - secure: "GLaRmoUDztfKPoptVKGVcaI5lnHWZ/qUKVYPFKyBMjAJORok+e7DN1ljDq3TxnBfOuDcFiMHc8YdLP99jWrle5C/OL3vWQ0w7yoy2MDURcon8UhRw1ks/xv51KSIU4MbwNU8SrqsySVHIHq/+riZYkRU+xw/sLGtqKiyVasoyr4="
+
+script:
+  - make
+  - if [[ $REPO == BLESSED ]]; then
+      git config --global user.email "notifications@travis-ci.org";
+      git config --global user.name "Travis CI";
+      git checkout --orphan gh-pages;
+      rm .git/index;
+      git add -f *.html;
+      git add css;
+      git add images;
+      git add js;
+      git clean -fxd;
+      git commit -m "Update `date -R`";
+      git push -q https://soonhokong:${GH_TOKEN}@github.com/leanprover/cmu-15815-s15.git +HEAD:gh-pages;
+    fi
+
+notifications:
+  email:
+    recipients:
+     - soonho.kong@gmail.com
