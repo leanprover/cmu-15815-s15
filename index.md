@@ -19,7 +19,7 @@ new open-source theorem prover, [Lean][lean], developed at [Microsoft Research][
 
 Announcements
 -------------
- * 1/17 First assignment is out. Read chapter 1 and 2 of the [tutorial] and do exercises in chapter 1.
+ * 1/17 First assignment is out. Read chapter 1 - 3 of the [tutorial] and do exercises in chapter 2.
  * 1/16 Welcome to 15-815!
 
 [tutorial]: https://leanprover.github.io/tutorial
