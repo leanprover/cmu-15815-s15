@@ -4,7 +4,7 @@ Lecture Slides and Reading
 \# | Date  | Lecture                                                                      | Additional Readings and Notes |
 -- | ------------------------------------------------------------------------------------ | ----------------------------  |
 1  | 01/16 | Introduction and Dependent Type Theory (Chapter 1&2 of [tutorial][tutorial]) |                               |
-2  | 01/23 |                                                                              |                               |
+2  | 01/23 |                                                                              | [lean-mode][lean-mode-slides] |
 3  | 01/30 |                                                                              |                               |
 4  | 02/06 |                                                                              |                               |
 5  | 02/13 |                                                                              |                               |
@@ -21,3 +21,5 @@ Lecture Slides and Reading
 16 | 05/01 |                                                                              |                               |
 
 [tutorial]: https://leanprover.github.io/tutorial
+[lean-mode-slides]: http://leanprover.github.io/presentations/20150123_lean-mode/lean-mode.pdf
+
