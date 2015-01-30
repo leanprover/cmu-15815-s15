@@ -58,9 +58,8 @@ research in this area.
 
 Textbooks
 ---------
- 
+
  * Theorem Proving in Lean [[PDF][tutorial-pdf]/[WWW][tutorial-www]]
 
-[tutorial-pdf]: https://leanprover.net/tutorial/tutorial.pdf 
-[tutorial-www]: https://leanprover.net/tutorial
-
+[tutorial-pdf]: https://leanprover.github.io/tutorial/tutorial.pdf
+[tutorial-www]: https://leanprover.github.io/tutorial

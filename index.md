@@ -14,7 +14,7 @@ classical vs. constructive logic, homotopy type theory, and
 elaboration and unification algorithms. The course will be based on a
 new open-source theorem prover, [Lean][lean], developed at [Microsoft Research][msr].
 
-[lean]: http://leanprover.net
+[lean]: http://leanprover.github.io
 [msr]: http://research.microsoft.com
 
 Announcements
@@ -23,7 +23,7 @@ Announcements
  * 1/17 First assignment is out. Read chapter 1 - 3 of the [tutorial] and do exercises in chapter 2.
  * 1/16 Welcome to 15-815!
 
-[tutorial]: https://leanprover.net/tutorial
+[tutorial]: https://leanprover.github.io/tutorial
 
 Lectures
 --------

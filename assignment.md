@@ -11,4 +11,4 @@ Homework Assignments
 6  |           |                                                                   |                                                             |
 7  |           |                                                                   |                                                             |
 
-[tutorial]: https://leanprover.net/tutorial
+[tutorial]: https://leanprover.github.io/tutorial

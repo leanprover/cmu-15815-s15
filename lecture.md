@@ -20,5 +20,5 @@ Lecture Slides and Reading
 15 | 04/24 |                                                                                       |                               |
 16 | 05/01 |                                                                                       |                               |
 
-[tutorial]: https://leanprover.net/tutorial
-[lean-mode-slides]: http://leanprover.net/presentations/20150123_lean-mode/lean-mode.pdf
+[tutorial]: https://leanprover.github.io/tutorial
+[lean-mode-slides]: http://leanprover.github.io/presentations/20150123_lean-mode/lean-mode.pdf
