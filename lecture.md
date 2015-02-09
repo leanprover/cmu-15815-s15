@@ -6,8 +6,8 @@ Lecture Slides and Reading
 1  | 01/16 | Introduction / Dependent Type Theory (Chapters 1 & 2 of the [tutorial][tutorial])              |                               |
 2  | 01/23 | Dependent Type Theory / Propositions and Proofs (Chapters 2 & 3 of the [tutorial][tutorial])   | [lean-mode][lean-mode-slides] |
 3  | 01/30 | Propositions and Proofs / Quantifiers and Equality (Chapters 3 & 4 of the [tutorial][tutorial])|                               |
-4  | 02/06 |                                                                                                |                               |
-5  | 02/13 |                                                                                                |                               |
+4  | 02/06 | Quantifiers and Equality / Interacting with Lean (Chapter 4 & 5 of the [tutorial][tutorial])   |                               |
+5  | 02/13 | Inductive Types (Chapter 6 of the [tutorial][tutorial])                                        |                               |
 6  | 02/20 |                                                                                                |                               |
 7  | 02/27 |                                                                                                |                               |
    | 03/06 | No Class                                                                                       | Mid-Semester Break            |
