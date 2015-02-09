@@ -1,4 +1,4 @@
-![Travis](https://travis-ci.org/leanprover/cmu-15815-s15.svg)
+[![Build Status](https://travis-ci.org/leanprover/cmu-15815-s15.svg?branch=master)](https://travis-ci.org/leanprover/cmu-15815-s15)
 
 CMU 15–815 Interactive Theorem Proving
 ======================================
