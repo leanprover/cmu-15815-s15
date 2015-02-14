@@ -20,10 +20,11 @@ new open-source theorem prover, [Lean][lean], developed at [Microsoft Research][
 Announcements
 -------------
 
- * 2/8  Fourth assignment is out. [Continue reading][tutorial] 6, and prove some theorems.	
- * 2/4  Third assignment is out. [Continue reading][tutorial] 3-5 with exercises.	
- * 1/27 Second assignment is out. [Continue reading][tutorial] 2-3 with exercises, start chapter 4.	
- * 1/17 First assignment is out. Read chapter 1-3 of the [tutorial] and do exercises in chapter 2.
+ * 2/14 The fifth assignment is out. [Continue reading][tutorial] 6-7, do exercises (especially 6.4)	
+ * 2/8  The fourth assignment is out. [Continue reading][tutorial] 6, and prove some theorems.	
+ * 2/4  The third assignment is out. [Continue reading][tutorial] 3-5 with exercises.	
+ * 1/27 The second assignment is out. [Continue reading][tutorial] 2-3 with exercises, start chapter 4.	
+ * 1/17 The first assignment is out. Read chapter 1-3 of the [tutorial] and do exercises in chapter 2.
  * 1/16 Welcome to 15-815!
 
 [tutorial]: https://leanprover.github.io/tutorial
