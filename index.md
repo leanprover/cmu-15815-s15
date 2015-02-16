@@ -54,9 +54,7 @@ Contact Information
  * [Soonho Kong][soonhok]
     - <a href="http://www.google.com/recaptcha/mailhide/d?k=01iaYXZdE56XBtK6vYFu6SUQ==&amp;c=tqwrtyKuV2G_5rW2xV9WAmBaCZFBU47ztQhRx18qdHA=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501iaYXZdE56XBtK6vYFu6SUQ\75\75\46c\75tqwrtyKuV2G_5rW2xV9WAmBaCZFBU47ztQhRx18qdHA\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">s...</a>@cs.cmu.edu
     - Office: GHC 9232
-    - Phone: 412-268-7228
-    - Office hours: Friday, 2:30 to 3:30 pm
-
+    - Office hours: By appointment
 
 ### Course Secretary
  * Charlotte Yano
