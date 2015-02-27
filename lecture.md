@@ -8,12 +8,12 @@ Lecture Slides and Reading
 3  | 01/30 | Propositions and Proofs / Quantifiers and Equality (Chapters 3 & 4 of the [tutorial][tutorial])|                               |
 4  | 02/06 | Quantifiers and Equality / Interacting with Lean (Chapter 4 & 5 of the [tutorial][tutorial])   |                               |
 5  | 02/13 | Inductive Types (Chapter 6 of the [tutorial][tutorial])                                        | [Inductive Families][indfam]  |
-6  | 02/20 | Inductive Types, Induction and Recursion (Chapters 6 and 7 of the [tutorial][tutorial])        |                               |
-7  | 02/27 | Type Classes and Structures (Chapters 9 and 10 of the [tutorial][tutorial])                    |                               |
+6  | 02/20 | The formal proof of the Kepler conjecture, Thomas Hales Professor, University of Pittsburgh    |                               |
    | 03/06 | No Class                                                                                       | Mid-Semester Break            |
    | 03/13 | No Class                                                                                       | Spring Break                  |
-8  | 03/20 | Elaboration and Unification (Leonardo de Moura; Chapter 8 of the [tutorial][tutorial])         |                               |
-9  | 03/27 |                                                                                                |                               |
+7  | 02/27 | Inductive Types, Induction and Recursion (Chapters 6 and 7 of the [tutorial][tutorial])        |                               |
+8  | 03/20 | Type Classes and Structures (Chapters 9 and 10 of the [tutorial][tutorial])                    |                               |
+9  | 03/27 | Elaboration and Unification (Leonardo de Moura; Chapter 8 of the [tutorial][tutorial])         |                               |
 10 | 04/03 |                                                                                                |                               |
 11 | 04/10 |                                                                                                |                               |
 12 | 04/17 |                                                                                                | Spring Carnival               |
