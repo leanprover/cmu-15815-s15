@@ -20,6 +20,7 @@ new open-source theorem prover, [Lean][lean], developed at [Microsoft Research][
 Announcements
 -------------
 
+ * 3/2  The sixth assignment is out. [Continue reading][tutorial] 8, start thinking about [final projects].
  * 2/14 The fifth assignment is out. [Continue reading][tutorial] 6-7, do exercises (especially 6.4)	
  * 2/8  The fourth assignment is out. [Continue reading][tutorial] 6, and prove some theorems.	
  * 2/4  The third assignment is out. [Continue reading][tutorial] 3-5 with exercises.	
@@ -28,6 +29,7 @@ Announcements
  * 1/16 Welcome to 15-815!
 
 [tutorial]: https://leanprover.github.io/tutorial
+[final projects]: http://leanprover.github.io/cmu-15815-s15/project.html
 
 Lectures
 --------
