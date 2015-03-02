@@ -115,7 +115,7 @@ type (HIT) in Lean. Talk to us about how to do this.
 Benjamin Peirce et al. have written a book on interactive theorem
 proving and program verification, based on Coq:
 
-  [http://www.cis.upenn.edu/~bcpierce/sf/current/index.html](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
+ * [http://www.cis.upenn.edu/~bcpierce/sf/current/index.html](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
 
 You can try to carry out some of the exercises from that book in
 Lean. For example:
@@ -136,7 +136,7 @@ Finally, Freek Wiedijk has pointed us to a list of suggested projects
 used for a similar course that is taught in the Netherlands based on
 Coq.
 
-  [http://www.cs.ru.nl/~freek/courses/tt-2014/](http://www.cs.ru.nl/~freek/courses/tt-2014/)
-  [http://www.cs.ru.nl/~freek/courses/tt-2014/public/huiswerk.pdf](http://www.cs.ru.nl/~freek/courses/tt-2014/public/huiswerk.pdf)
+* [http://www.cs.ru.nl/~freek/courses/tt-2014](http://www.cs.ru.nl/~freek/courses/tt-2014)
+* [http://www.cs.ru.nl/~freek/courses/tt-2014/public/huiswerk.pdf](http://www.cs.ru.nl/~freek/courses/tt-2014/public/huiswerk.pdf)
 
-* Do any of the suggested projects on that list.
+Do any of the suggested projects on that list.
