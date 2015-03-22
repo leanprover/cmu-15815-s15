@@ -20,6 +20,7 @@ new open-source theorem prover, [Lean][lean], developed at [Microsoft Research][
 Announcements
 -------------
 
+ * 3/22 The seventh assignment is out. [Continue reading][tutorial] 9-10.
  * 3/2  The sixth assignment is out. [Continue reading][tutorial] 8, start thinking about [final projects].
  * 2/14 The fifth assignment is out. [Continue reading][tutorial] 6-7, do exercises (especially 6.4)	
  * 2/8  The fourth assignment is out. [Continue reading][tutorial] 6, and prove some theorems.	
