@@ -13,7 +13,7 @@ Lecture Slides and Reading
    | 03/06 | No Class                                                                                       | Mid-Semester Break            |
    | 03/13 | No Class                                                                                       | Spring Break                  |
 8  | 03/20 | Elaboration and Unification (Leonardo de Moura; Chapter 8 of the [tutorial][tutorial])         |                               |
-9  | 03/27 | Type Classes and Structures (Chapters 9 and 10 of the [tutorial][tutorial])                    |                               |
+9  | 03/27 | Type Classes and Structures (Chapters 9 and 10 of the [tutorial][tutorial])                    | [Elaboration][constr]         |
 10 | 04/03 |                                                                                                |                               |
 11 | 04/10 |                                                                                                |                               |
 12 | 04/17 |                                                                                                | Spring Carnival               |
@@ -23,3 +23,4 @@ Lecture Slides and Reading
 [tutorial]: https://leanprover.github.io/tutorial
 [lean-mode-slides]: http://leanprover.github.io/presentations/20150123_lean-mode/lean-mode.pdf
 [indfam]: http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf
+[constr]: http://www.andrew.cmu.edu/user/avigad/Papers/constr.pdf
