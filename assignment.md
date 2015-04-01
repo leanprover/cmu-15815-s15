@@ -9,7 +9,8 @@ Homework Assignments
 4  | 13 Feb    | Read Chapter 6, and prove some theorems!                          |                                                             |
 5  | 27 Feb    | Read Chapters 6 and 7, and do exercises (esp. Section  6.4)       |                                                             |
 6  | 20 Mar    | Read Chapter 8, think about [final projects]                      |                                                             |
-7  | 27 Mar    | Read Chapters 9 and 19, and do exercises                          |                                                             |
+7  | 27 Mar    | Read Chapters 9 and 10, and do exercises                          |                                                             |
+8  |  3 Apr    | Read Chapter 11                                                   |                                                             |
 
 [tutorial]: https://leanprover.github.io/tutorial
 [final projects]: http://leanprover.github.io/cmu-15815-s15/project.html

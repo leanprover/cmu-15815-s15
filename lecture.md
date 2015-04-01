@@ -14,7 +14,7 @@ Lecture Slides and Reading
    | 03/13 | No Class                                                                                       | Spring Break                  |
 8  | 03/20 | Elaboration and Unification (Leonardo de Moura; Chapter 8 of the [tutorial][tutorial])         |                               |
 9  | 03/27 | Type Classes and Structures (Chapters 9 and 10 of the [tutorial][tutorial])                    | [Elaboration][constr]         |
-10 | 04/03 |                                                                                                |                               |
+10 | 04/03 | Tactics (Chapter 11 of the [tutorial][tutorial])                                               |                               |
 11 | 04/10 |                                                                                                |                               |
 12 | 04/17 |                                                                                                | Spring Carnival               |
 13 | 04/24 |                                                                                                |                               |
