@@ -20,6 +20,7 @@ new open-source theorem prover, [Lean][lean], developed at [Microsoft Research][
 Announcements
 -------------
 
+ * 4/3  The ninth assignment is out. Read [the HoTT Book], esp. 1.12, 2.1-2.6, 3.1-3.4.
  * 3/31 The eighth assignment is out. [Continue reading][tutorial] 11.
  * 3/22 The seventh assignment is out. [Continue reading][tutorial] 9-10.
  * 3/2  The sixth assignment is out. [Continue reading][tutorial] 8, start thinking about [final projects].
@@ -32,6 +33,7 @@ Announcements
 
 [tutorial]: https://leanprover.github.io/tutorial
 [final projects]: http://leanprover.github.io/cmu-15815-s15/project.html
+[the HoTT Book]: http://homotopytypetheory.org/book/
 
 Lectures
 --------
