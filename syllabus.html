@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<meta content="Carnegie Mellon University" name="author"/>
+<meta content="index,follow" name="robots"/>
+<link href="css/reset.css" media="all" rel="stylesheet" type="text/css"/><link href="css/screen.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--[if gte IE 5.5000]><![if lt IE 7]>
+<link rel="stylesheet" href="css/ie.css" type="text/css"  media="screen" />
+<![endif]><![endif]-->
+<!--[if gte IE 7]><![if lt IE 8]> <link rel="stylesheet"
+href="css/ie7.css"
+type="text/css" media="screen" /> <![endif]><![endif]-->
+<link href="css/khaki-content.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<script language="JavaScript" src="js/scripts.js" type="text/javascript"></script>
+<script language="JavaScript" src="js/sorttable.js" type="text/javascript"></script>
+<script language="JavaScript" src="js/jquery-min.js" type="text/javascript"></script>
+<script language="JavaScript" src="js/__utm.js" type="text/javascript"></script>
+
+<title>
+CMU 15-815 Interactive Theorem Proving
+</title></head>
+<body><h1 id="titleHead">
+CMU 15-815 Interactive Theorem Proving
+</h1><div id="wrapper">
+<div id="pageHeader">
+  <div id="wordmark">
+  <h2><a href="http://www.cmu.edu/" title="Carnegie Mellon University"><span>Carnegie Mellon University</span></a></h2>
+  </div>
+  <div id="search"></div>
+</div>
+<div id="main">
+  <div id="navWrapper">
+    <a class="noDisplay" href="#access">Skip navigation and jump directly to page content</a>
+    <div id="logo"><a href="index.html"><img alt="Course Logo"
+    border="0" src="images/class_logo.png" title="15-817 Automated Theorem Proving"/></a>
+    <div class="hr"><hr/></div>
+  </div>
+  <div id="nav">
+    <ul>
+      <li class="standard"><a href="index.html">Main Page</a></li>
+      <li class="standard"><a href="lecture.html">Lectures and Reading</a></li>
+<!--      <li class="standard"><a href="syllabus.html">Syllabus</a></li> -->
+      <li class="standard"><a href="assignment.html">Assignments</a></li>
+      <li class="standard"><a href="project.html">Projects</a></li>
+      <li class="standard"><a href="grading.html">Grading and Policies</a></li>
+    </ul>
+    <div class="hr">
+      <hr/>
+    </div>
+  </div>
+</div>
+<div id="contentWrapper">
+<a name="access"></a>
+<div class="content2Column" id="mainContent">
+  <div class="boxTop"></div>
+  <div class="content">
+<h1 id="coursesyllabus">Course Syllabus</h1>
+
+<p>Following is the list of topics that we intend to cover in the course.
+We hope that at the end of the course, students will be able to do
+research in this area.</p>
+
+<ul>
+<li>Starting Lean
+
+<ul>
+<li>A quick tour with examples</li>
+</ul></li>
+<li>Dependent data types
+
+<ul>
+<li>Simple type theory and examples of higher types</li>
+<li>Dependent Pi&#8217;s and Sigma&#8217;s</li>
+<li>Notions of reduction</li>
+<li>Implicit arguments</li>
+</ul></li>
+<li>Type theory as a proof language (Curry-Howard)
+
+<ul>
+<li>Propositional logic in type theory</li>
+<li>Quantifiers and quantifiers rules</li>
+<li>Equality rules and calculational proofs</li>
+<li>Aside: constructive logic vs. classical logic</li>
+</ul></li>
+<li>Lean&#8217;s user interface (emacs) - a guided tour
+
+<ul>
+<li>Printing options</li>
+<li>Searching</li>
+</ul></li>
+<li>Building longer proofs
+
+<ul>
+<li>Tactics and the tactic frameworks</li>
+<li>Structured proofs</li>
+<li>Sections and contexts</li>
+</ul></li>
+<li>Inductive types
+
+<ul>
+<li>Examples: nat, list, tree</li>
+<li>Proofs by induction, definitions by recursion</li>
+<li>Inductive definitions of equality, and, or, false, true, unit, empty</li>
+<li>Inductive families, parameters vs. indices</li>
+</ul></li>
+<li>The simplifier
+
+<ul>
+<li>Term rewriting</li>
+<li>Setoids</li>
+</ul></li>
+<li>Struggling with dependent types
+
+<ul>
+<li>Sigma types and equality of dependent pairs</li>
+<li>eq.rec, casts, and heterogeneous equality</li>
+<li>intensional vs. extensional type theory</li>
+</ul></li>
+<li>Structures and type classes
+
+<ul>
+<li>Encodings of type classes</li>
+<li>Representing structures like orders and groups</li>
+</ul></li>
+<li>Classical logic and other axioms
+
+<ul>
+<li>EM with type classes</li>
+<li>Function extensionality</li>
+<li>Skolem functions</li>
+</ul></li>
+<li>Programming language semantics in type theory</li>
+<li>Lean&#8217;s parser
+
+<ul>
+<li>Pratt-style parsing</li>
+<li>Declaring notation</li>
+</ul></li>
+<li>Homotopy type theory
+
+<ul>
+<li>Overview and introduction</li>
+</ul></li>
+<li>The elaborator
+
+<ul>
+<li>Higher-order unification</li>
+<li>Overloading</li>
+<li>An overview of Lean&#8217;s elaboration algorithm</li>
+</ul></li>
+</ul>
+
+<p>(Later: using other automated tools)</p>
+
+<h2 id="textbooks">Textbooks</h2>
+
+<ul>
+<li>Theorem Proving in Lean [<a href="https://leanprover.github.io/tutorial/tutorial.pdf">PDF</a>/<a href="https://leanprover.github.io/tutorial">WWW</a>]</li>
+</ul>
+    <script type="text/javascript">
+      initExpandCollapse();
+    </script>
+  </div>
+  <div class="boxBottom"></div>
+</div>
+</div>
+<div id="footer">
+  <ul class="contact"><li class="first"><a href="http://www.csd.cs.cmu.edu/">Computer Science Department</a>
+      </li><li>5000 Forbes Ave, Pittsburgh, PA
+      15213</li></ul>
+  <ul class="links"><li class="first"><a href="http://www.cmu.edu"
+      title="Carnegie Mellon University">Carnegie Mellon Home</a></li></ul></div> </div> <div id="pageFooter"></div></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-59814431-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
