@@ -12,6 +12,7 @@ Homework Assignments
 7  | 27 Mar    | Read Chapters 9 and 10, and do exercises                          |                                                             |
 8  |  3 Apr    | Read Chapter 11                                                   |                                                             |
 9  | 10 Apr    | Read [the HoTT Book], esp. 1.12, 2.1-2.6, 3.1-3.4                 |                                                             |
+10 | 17 Apr    | Read Chapter 12 of the [tutorial]                                 |                                                             |
 
 [tutorial]: https://leanprover.github.io/tutorial
 [final projects]: http://leanprover.github.io/cmu-15815-s15/project.html

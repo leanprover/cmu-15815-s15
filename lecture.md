@@ -15,10 +15,10 @@ Lecture Slides and Reading
 8  | 03/20 | Elaboration and Unification (Leonardo de Moura; Chapter 8 of the [tutorial][tutorial])         |                               |
 9  | 03/27 | Type Classes and Structures (Chapters 9 and 10 of the [tutorial][tutorial])                    | [Elaboration][constr]         |
 10 | 04/03 | Tactics (Chapter 11 of the [tutorial][tutorial])                                               |                               |
-11 | 04/10 | Homotopy Type Theory ([the-Hott-Book][the-HoTT-Book])                                                         |                               |
-12 | 04/17 | Axioms                                                                                         | Spring Carnival               |
-13 | 04/24 | Survey of Interactive and Automated Theorem Proving                                            |                               |
-14 | 05/01 |                                                                                                |                               |
+11 | 04/10 | Homotopy Type Theory ([the-Hott-Book][the-HoTT-Book])                                          |                               |
+12 | 04/17 | Axioms (Chapter 12 of the [tutorial][tutorial])                                                | Spring Carnival               |
+13 | 04/24 | Formal Methods in Mathematics                                                                  |                               |
+   | 05/01 | No class                                                                                       |                               |
 
 [tutorial]: https://leanprover.github.io/tutorial
 [lean-mode-slides]: http://leanprover.github.io/presentations/20150123_lean-mode/lean-mode.pdf
